@@ -1,0 +1,229 @@
+.block1 {
+    width: auto;
+    height: 400px;
+    background-color: rgb(205, 235, 191);
+    box-shadow: inset 0px 0px 20px 10px rgb(52, 94, 68)
+}
+
+.block2{
+    width: 900px;
+    height: 400px;
+    background-color: rgb(205, 235, 191);
+    box-shadow: inset 0px 0px 20px 10px rgb(52, 94, 68);
+    margin: auto;
+}
+
+.menu{
+    color: rgb(56, 71, 54);
+    font-size: 20px;
+    font-weight: 700;
+    font-family: amatic sc;
+    padding: 10px;
+    }
+
+.text{
+    padding: 50px;
+    
+}
+
+.text1{
+    color: rgb(13, 31, 11);
+    font-size: 70px;
+    font-family: amatic sc;
+    font-weight: 700;
+    padding-top: 100px;
+    padding-left: 300px;
+}
+
+.text3{
+    color: rgb(13, 31, 11);
+    font-size: 50px;
+    font-family: amatic sc;
+    font-weight: 700;
+    padding: 20px 700px ;
+}
+
+.text4{
+    color: rgb(13, 31, 11);
+    font-size: 30px;
+    font-family: amatic sc;
+    font-weight: 400;
+    padding-left: 300px;    
+}
+
+.img{
+    width: 400px;
+    height: 500px;
+    padding-top: 50px;
+    margin: auto;
+}
+.foto{
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.block4{
+    width: auto;
+    height: 400px;
+    background-color: rgb(232, 240, 228);
+    box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
+    margin-top: 100px;    
+}
+
+.block5{
+    width: 900px;
+    height: 400px;
+    background-color: rgb(232, 240, 228);
+    box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
+    margin: auto;
+}
+
+.text5{
+    color: rgb(13, 31, 11);
+    font-size: 50px;
+    font-family: amatic sc;
+    font-weight: 700;
+    padding: 30px 50px 50px 350px;  
+}
+
+.block6{
+    width: 900px;
+    height: 200px;
+}
+
+.text6{
+    color: rgb(13, 31, 11);
+    width: 50px;
+    height: 50px;
+    background-color: rgb(147, 206, 147);
+    box-sizing: border-box;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+    padding: 10px;
+    color: rgb(47, 58, 46);
+}
+
+.text7{
+    color: rgb(13, 31, 11);
+    font-size: 50px;
+    font-family: amatic sc;
+    font-weight: 700;
+    padding: 20px 600px ;
+}
+
+.box1{
+    font-size: 25px;
+    font-family: amatic sc;
+    box-sizing: border-box;
+    float: left;
+    padding-left: 500px;         
+}
+
+.box2{
+    font-size: 25px;
+    font-family: amatic sc;
+    float: right;
+    padding-right: 500px;          
+}
+
+.text8{
+    color: rgb(13, 31, 11);
+    font-size: 50px;
+    font-family: amatic sc;
+    font-weight: 700;
+    padding: 250px 650px 5px;
+}
+
+.box3{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(232, 240, 228);
+    box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
+    float:left;
+    margin-left: 300px;
+    margin-bottom: 20px;   
+}
+
+.box4{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(232, 240, 228);
+    box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
+    float:left;
+    margin-left: 100px;
+    margin-bottom: 20px;   
+}
+
+.box5{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(232, 240, 228);
+    box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
+    float:left;
+    margin-left: 100px;
+    margin-bottom: 20px;   
+}
+
+.text9{
+    color: rgb(13, 31, 11);
+    font-size: 25px;
+    font-family: amatic sc;
+    font-weight: 400;
+    padding: 0px 300px 5px;
+    margin-bottom: 20px;
+}
+
+.text10{
+    color: rgb(13, 31, 11);
+    font-size: 25px;
+    font-family: amatic sc;
+    font-weight: 400;
+    padding: 0px 10px 5px;
+    margin-bottom: 20px;
+}
+.text11{
+    color: rgb(13, 31, 11);
+    font-size: 25px;
+    font-family: amatic sc;
+    font-weight: 400;
+    padding: 0px 280px 5px;
+    margin-bottom: 20px;
+}
+
+.block7{
+    width: auto;
+    height: 400px;
+    background-color: rgb(195, 202, 190);     
+}
+
+.block8{
+    width: 900px;
+    height: 400px;
+    background-color: rgb(195, 202, 190);  
+    margin: auto;   
+}
+
+.text12{
+    color: rgb(13, 31, 11);
+    font-size: 50px;
+    font-family: amatic sc;
+    padding: 30px 350px;
+    margin-bottom: 5px;
+}
+
+.mobile{
+    font-size: 15px;    
+}
+
+.mail{
+    font-size: 15px; 
+      
+}
+
+.insta{
+    font-size: 15px;   
+    color: rgb(13, 31, 11);   
+}
