@@ -1,5 +1,5 @@
 .block1 {
-    width: auto;
+    width: 100%;
     height: 400px;
     background-color: rgb(205, 235, 191);
     box-shadow: inset 0px 0px 20px 10px rgb(52, 94, 68)
@@ -33,14 +33,16 @@
     font-weight: 700;
     padding-top: 100px;
     padding-left: 300px;
-}
+}    
 
 .text3{
     color: rgb(13, 31, 11);
     font-size: 50px;
     font-family: amatic sc;
     font-weight: 700;
-    padding: 20px 700px ;
+    padding: 20px 700px 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .text4{
@@ -48,7 +50,7 @@
     font-size: 30px;
     font-family: amatic sc;
     font-weight: 400;
-    padding-left: 300px;    
+    padding: 20px 250px;    
 }
 
 .img{
@@ -86,6 +88,7 @@
     font-family: amatic sc;
     font-weight: 700;
     padding: 30px 50px 50px 350px;  
+    margin-bottom: 50px;
 }
 
 .block6{
@@ -102,7 +105,8 @@
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    padding: 10px;
+    padding: 20px;
+    margin: 20px;
     color: rgb(47, 58, 46);
 }
 
@@ -111,7 +115,8 @@
     font-size: 50px;
     font-family: amatic sc;
     font-weight: 700;
-    padding: 20px 600px ;
+    padding: 30px 600px ;
+    margin: 15px 5px 50px 5px;
 }
 
 .box1{
@@ -119,12 +124,14 @@
     font-family: amatic sc;
     box-sizing: border-box;
     float: left;
-    padding-left: 500px;         
+    padding-left: 500px;    
+       
 }
 
 .box2{
     font-size: 25px;
     font-family: amatic sc;
+    box-sizing: border-box;
     float: right;
     padding-right: 500px;          
 }
@@ -135,6 +142,7 @@
     font-family: amatic sc;
     font-weight: 700;
     padding: 250px 650px 5px;
+    margin-bottom: 50px;
 }
 
 .box3{
@@ -143,8 +151,8 @@
     background-color: rgb(232, 240, 228);
     box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
     float:left;
-    margin-left: 300px;
-    margin-bottom: 20px;   
+    margin-left:  250px;
+    margin-bottom: 50px;   
 }
 
 .box4{
@@ -153,8 +161,8 @@
     background-color: rgb(232, 240, 228);
     box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
     float:left;
-    margin-left: 100px;
-    margin-bottom: 20px;   
+    margin-left:  150px;
+    margin-bottom: 50px;   
 }
 
 .box5{
@@ -163,8 +171,8 @@
     background-color: rgb(232, 240, 228);
     box-shadow: inset 0px 0px 20px 10px rgb(204, 235, 216);
     float:left;
-    margin-left: 100px;
-    margin-bottom: 20px;   
+    margin-left:  150px;
+    margin-bottom: 50px;   
 }
 
 .text9{
@@ -172,31 +180,35 @@
     font-size: 25px;
     font-family: amatic sc;
     font-weight: 400;
-    padding: 0px 300px 5px;
-    margin-bottom: 20px;
+    padding: 0px 250px 50px;
+    margin-bottom: 150px;
+    
 }
-
 .text10{
     color: rgb(13, 31, 11);
     font-size: 25px;
     font-family: amatic sc;
     font-weight: 400;
-    padding: 0px 10px 5px;
-    margin-bottom: 20px;
-}
+    padding: 0px 100px 50px;
+    margin-bottom: 100px;
+} 
+
 .text11{
     color: rgb(13, 31, 11);
     font-size: 25px;
     font-family: amatic sc;
     font-weight: 400;
-    padding: 0px 280px 5px;
-    margin-bottom: 20px;
+    padding: 0px 250px 50px;
+    margin-bottom: 100px;
+    
 }
 
 .block7{
     width: auto;
     height: 400px;
-    background-color: rgb(195, 202, 190);     
+    background-color: rgb(195, 202, 190);  
+    margin-top: 50px;
+       
 }
 
 .block8{
@@ -215,15 +227,22 @@
 }
 
 .mobile{
-    font-size: 15px;    
+    font-size: 15px; 
+    font-family: amatic sc;
+    padding: 15px;
+
 }
 
 .mail{
     font-size: 15px; 
+    font-family: amatic sc;
+    padding: 15px;
       
 }
 
 .insta{
-    font-size: 15px;   
+    font-size: 15px;  
+    font-family: amatic sc; 
+    padding: 15px;
     color: rgb(13, 31, 11);   
 }
